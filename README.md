@@ -105,6 +105,6 @@ of goats based on observable characteristics.
 
 ## Author
 
-## Ometoro Emmanuel
+### Ometoro Emmanuel
 
 Project: Goat Weight Analysis Using Linear Regression in R
