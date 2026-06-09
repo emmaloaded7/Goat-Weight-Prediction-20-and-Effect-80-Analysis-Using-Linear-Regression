@@ -1,5 +1,5 @@
-## Goat Weight Prediction and Effect Analysis Using Linear Regression
-# Project Overview
+# Goat Weight Prediction and Effect Analysis Using Linear Regression
+## Project Overview
 
 This project investigates the relationship between goat Weight and several biological characteristics, 
 including Height, Age, and Sex. Multiple linear regression models were developed to determine which factors 
@@ -8,7 +8,7 @@ are associated with goat weight and to evaluate how well these variables explain
 The analysis was conducted in R using exploratory data analysis, correlation analysis, linear regression, model comparison, 
 diagnostic checks, and prediction.
 
-# Objectives
+## Objectives
 
 The objectives of this project were to:
 
@@ -20,10 +20,10 @@ The objectives of this project were to:
 * Validate model assumptions using diagnostic plots.
 * Predict the weight of a new goat using the final regression model.
 
-# Dataset Description
+## Dataset Description
 Goat-Weight-Prediction-20-and-Effect-80-Analysis-Using-Linear-Regression[https://github.com/emmaloaded7/Goat-Weight-Prediction-20-and-Effect-80-Analysis-Using-Linear-Regression/blob/master/goat_dataset.csv]
 
-# The dataset contains measurements collected from goats.
+## The dataset contains measurements collected from goats.
 
 * Variables
 * Variable	Description
@@ -32,7 +32,7 @@ Goat-Weight-Prediction-20-and-Effect-80-Analysis-Using-Linear-Regression[https:/
 * Age of the goat (years)
 * Sex of the goat (Male/Female)
 
-# Methodology
+## Methodology
 1. Data Import and Exploration
 
 The dataset was imported into R and inspected using:
