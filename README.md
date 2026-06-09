@@ -78,7 +78,7 @@ A correlation of approximately 0.88 indicated a strong positive relationship bet
 
 ## Results
 
-## Key findings from the analysis include:
+### Key findings from the analysis include:
 
 * Height showed a strong positive relationship with Weight.
 * The correlation between Height and Weight was approximately 0.88.
