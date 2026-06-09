@@ -1,0 +1,1 @@
+# Goat-Weight-Prediction-20-and-Effect-80-Analysis-Using-Linear-Regression
